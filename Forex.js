@@ -1,28 +1,6 @@
 
   
-  CVE: "CV",
-  CYP: "CY",
-  CZK: "CZ",
-  DJF: "DJ",
-  DKK: "DK",
-  DOP: "DO",
-  DZD: "DZ",
-  ECS: "EC",
-  EEK: "EE",
-  EGP: "EG",
-  ETB: "ET",
-  EUR: "FR",
-  FJD: "FJ",
-  FKP: "FK",
-  GBP: "GB",
-  GEL: "GE",
-  GGP: "GG",
-  GHS: "GH",
-  GIP: "GI",
-  GMD: "GM",
-  GNF: "GN",
-  GTQ: "GT",
-  GYD: "GY",
+  
  
 const BASE_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
 
